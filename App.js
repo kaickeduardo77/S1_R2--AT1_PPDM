@@ -6,7 +6,9 @@ export default function App() {
     <View style={styles.container}>
       
       <View style={[styles.box, { backgroundColor: "black" }]} />
+
       <View style={[styles.box, { backgroundColor: "purple" }]} />
+      
       <View style={[styles.box, { backgroundColor: "pink" }]} />
 
     </View>
