@@ -5,11 +5,11 @@ export default function App() {
   return (
     <View style={styles.container}>
       
-      <View style={[styles.box, { backgroundColor: "black" }]} />
+      <View style={[styles.box, { backgroundColor: "red" }]} />
 
-      <View style={[styles.box, { backgroundColor: "purple" }]} />
+      <View style={[styles.box, { backgroundColor: "blue" }]} />
       
-      <View style={[styles.box, { backgroundColor: "pink" }]} />
+      <View style={[styles.box, { backgroundColor: "green" }]} />
 
     </View>
   );
